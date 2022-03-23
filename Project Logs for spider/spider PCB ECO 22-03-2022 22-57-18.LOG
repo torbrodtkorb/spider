@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C?
+Change Component Designator: OldDesignator=C16 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=F1 NewDesignator=F?
+Change Component Designator: OldDesignator=R16 NewDesignator=R?
+Change Component Designator: OldDesignator=R17 NewDesignator=R?
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR?_1
+Added Pin To Net: NetName=PA10 Pin=U1-13
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=U1-14
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA16 Pin=U1-17
+Added Net: Name=PA16
+Added Pin To Net: NetName=PA17 Pin=U1-18
+Added Net: Name=PA17
+Added Member To Class: ClassName=spider Member=Component X1 8 MHz

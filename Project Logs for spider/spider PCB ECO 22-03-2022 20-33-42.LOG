@@ -1,0 +1,9 @@
+Change Component Comment : Designator=M1 Old Comment=sensor_2 New Comment=MEMS Microphone
+Added Component: Designator=U?(FT231XQ-R)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "FTDI, Future Technology Devices International Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "FT231XQ-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "768-1128-1-ND"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=schematic New Net Name=spider
+Added Member To Class: ClassName=spider Member=Component U? FTDI
+Added Room: Name=spider
