@@ -25,12 +25,14 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -112,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZNAAJANV
 
 [Document5]
 DocumentPath=library\component-library\diode.PcbLib
@@ -146,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ATLPWZFP
 
 [Document7]
 DocumentPath=library\component-library\integrated-circuit.PcbLib
@@ -214,7 +216,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AZFYGMLN
 
 [Document11]
 DocumentPath=library\component-library\oscillator.PcbLib
@@ -350,7 +352,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NGIDVXYC
 
 [Document19]
 DocumentPath=library\component-library\voltage-regulator.PcbLib
@@ -384,7 +386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LUDSASHP
 
 [Document21]
 DocumentPath=library\output-job\output-job.OutJob
@@ -436,6 +438,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBANQDER
+
+[GeneratedDocument1]
+DocumentPath=..\Users\tor\AppData\Local\Temp\Pro15ED.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\Users\tor\AppData\Local\Temp\Pro882E.xls
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1318,6 +1328,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

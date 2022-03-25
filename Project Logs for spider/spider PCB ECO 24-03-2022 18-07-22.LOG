@@ -1,0 +1,35 @@
+Added Component: Designator=C20(capacitor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(capacitor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=U5(74LVC1T45Z6-7)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.no/en/products/detail/diodes-incorporated/74LVC1T45Z6-7/4898825"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "74LVC1T45Z6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "74LVC1T45Z6-7DITR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=5V Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=3V3 Pin=U5-5
+Added Pin To Net: NetName=5V Pin=U5-6
+Added Pin To Net: NetName=LED_3V Pin=U1-16
+Added Pin To Net: NetName=LED_3V Pin=U5-3
+Added Net: Name=LED_3V
+Added Pin To Net: NetName=LED_5V Pin=J3-2
+Added Pin To Net: NetName=LED_5V Pin=U5-4
+Added Net: Name=LED_5V
+Added Member To Class: ClassName=spider Member=Component C20 passive_5
+Added Member To Class: ClassName=spider Member=Component C21 passive_5
+Added Member To Class: ClassName=spider Member=Component U5 ic_10

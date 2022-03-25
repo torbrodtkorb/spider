@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=spider Member=TP4
+Added Component: Designator=TP_3V3(testpoint round, diameter 1.5mm)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP_5V(testpoint round, diameter 1.5mm)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP_GND(testpoint round, diameter 1.5mm)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=TP_3V3-1
+Added Pin To Net: NetName=5V Pin=TP_5V-1
+Added Pin To Net: NetName=GND Pin=TP_GND-1
+Added Member To Class: ClassName=spider Member=Component TP_3V3 misc_3
+Added Member To Class: ClassName=spider Member=Component TP_5V misc_3
+Added Member To Class: ClassName=spider Member=Component TP_GND misc_3
