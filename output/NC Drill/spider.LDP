@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\spider\pcb\spider.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=spider-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=spider-slotholes.txt|DrillLayers=gtl,gbl

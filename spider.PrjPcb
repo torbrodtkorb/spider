@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for spider
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -440,11 +440,71 @@ GenerateClassCluster=0
 DocumentUniqueId=JBANQDER
 
 [GeneratedDocument1]
-DocumentPath=..\Users\tor\AppData\Local\Temp\Pro15ED.xls
+DocumentPath=..\Users\tor\AppData\Local\Temp\Pro990B.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Users\tor\AppData\Local\Temp\Pro882E.xls
+DocumentPath=output\NC Drill\spider-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=output\NC Drill\spider-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=output\NC Drill\spider.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=output\Gerber\spider.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=output\Gerber\spider.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=output\Gerber\spider.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=output\Gerber\spider.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=output\Gerber\spider.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=output\Gerber\spider.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=output\Gerber\spider.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=output\Gerber\spider.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=output\Gerber\spider.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=output\Gerber\spider.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=output\NC Drill\spider.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=output\Gerber\spider.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=output\Report Board Stack\spider.xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -458,7 +518,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for spider
 
 [OutputGroup1]
 Name=Netlist Outputs

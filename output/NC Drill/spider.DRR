@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: spider.PcbDoc   21/04/2022  13:26:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : spider-RoundHoles.TXT
+ASCII SlotHoles File : spider-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             89        PTH        206.39mm (8.13inch)
+T2      0.3mm (12mil)                                             Round             13        PTH        23.97mm (0.94inch)
+T3      0.6mm (24mil)                                             Round             10        PTH        11.43mm (0.45inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
+T5      0.65mm (26mil)                                            Round             2         PTH        5.78mm (0.23inch)
+T6      1mm (39mil)                                               Round             3         PTH        5.00mm (0.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              121
+
+Total Processing Time (hh:mm:ss) : 00:00:00
